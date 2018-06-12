@@ -1,0 +1,14 @@
+{
+  "name": "necipallef/random",
+  "config": {
+    "sort-packages": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Necipallef\\Random\\": "src"
+    }
+  },
+  "require": {
+    "php": "^5.0"
+  }
+}
